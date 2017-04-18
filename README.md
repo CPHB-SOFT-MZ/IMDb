@@ -21,12 +21,12 @@ There is an error in the graph, which shows, that there are a lot of occurences 
 Most movies are rated a bit above the middle - with the rating of 6. 
 ![alt tag](https://github.com/ziemerz/IMDb/blob/master/ratings.png)
 
-### Histogram of length in minutes
+#### Histogram of length in minutes
 This histogram shows the length distribution of the movies.
 From the data we can see that the vast majority og movies are of 90 minutes of length.
 ![alt tag](https://github.com/ziemerz/IMDb/blob/master/length.png)
 
-### Histogram of length of movie titles
+#### Histogram of length of movie titles
 As you can see from the histogram, the length of titles are most usual 14 characters long
 ![alt tag](https://github.com/ziemerz/IMDb/blob/master/lot.png)
 
