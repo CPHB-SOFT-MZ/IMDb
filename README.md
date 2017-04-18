@@ -32,7 +32,7 @@ As you can see from the histogram, the length of titles are most usual 14 charac
 
 ### 2. Create a graph showing both year and amount of movies made.
 The graph clearly shows that there was a boom in the last months leading up to 2005. The reason the graph is falling in 2005, is that this data was from early 2005.
-![alt tag](IMDb/amount.png)
+![alt tag](https://github.com/ziemerz/IMDb/blob/master/amount.png)
 
 ### 3. Make a scatter-plot with year and length of movies.
 This scatterplot shows the distribution of all of the movies. 
